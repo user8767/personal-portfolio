@@ -8,7 +8,7 @@ import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
 import { FaInstagramSquare } from "react-icons/fa";
-import { FaTwitterSquare  } from "react-icons/fa";
+import { FaTwitterSquare } from "react-icons/fa";
 import { useSectionInView } from "../lib/hooks";
 import { useActiveSectionContext } from "../context/active-section-context";
 
@@ -62,12 +62,12 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Pratik.</span> I'm a{" "}
+        <span className="font-bold">Hello, I am Pratik Ravate.</span> I am a{" "}
         <span className="font-bold">Frontend developer</span>{" "}
         <span className="font-bold"></span>. I enjoy building{" "}
-        <span className="italic">sites & apps</span>. {" "}
+        <span className="italic">sites & apps</span>.{" "}
         <span className="underline"></span>.
-        <span>I am upskilling towards fullstack development.</span>
+        <span> Currently upskilling towards fullstack development.</span>
       </motion.h1>
 
       <motion.div
