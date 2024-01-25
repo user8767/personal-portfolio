@@ -66,7 +66,7 @@ export default function Intro() {
         <span className="font-bold">Frontend developer</span>{" "}
         <span className="font-bold"></span>. I enjoy building{" "}
         <span className="italic">sites & apps</span>.{" "}
-        <span className="underline"></span>.
+        <span className="underline"></span>
         <span> Currently upskilling towards fullstack development.</span>
       </motion.h1>
 
