@@ -33,7 +33,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://media.licdn.com/dms/image/D4D03AQEzOrMl0O1EVw/profile-displayphoto-shrink_400_400/0/1706102390947?e=1711584000&v=beta&t=tCnhRBaiHIWOCgWTwjszjie7G4sZVE5onjCNMNzSreY"
+              src="https://media.licdn.com/dms/image/D4D03AQEhw0220zAV5w/profile-displayphoto-shrink_800_800/0/1706199221157?e=1711584000&v=beta&t=tJ4grMxuKPSpVxqZY7QK_ELJZpqdENuj32OdSgfAIq0"
               alt="Pratik portrait"
               width="192"
               height="192"
