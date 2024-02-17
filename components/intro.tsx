@@ -33,7 +33,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://media.licdn.com/dms/image/D4D03AQEhw0220zAV5w/profile-displayphoto-shrink_800_800/0/1706199221157?e=1711584000&v=beta&t=tJ4grMxuKPSpVxqZY7QK_ELJZpqdENuj32OdSgfAIq0"
+              src="https://media.licdn.com/dms/image/D4D03AQFUF9aEKCnqwQ/profile-displayphoto-shrink_400_400/0/1708176233669?e=1713398400&v=beta&t=fEHOl6gL1ekNtz9Ojj7F-KRv2dDVqIPxn6OEylHLXgw"
               alt="Pratik portrait"
               width="192"
               height="192"
@@ -89,7 +89,7 @@ export default function Intro() {
           Contact me here{" "}
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
-        
+
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
           href="/CV.pdf"
